@@ -2,14 +2,7 @@
 
 Welcome to the **shell-scripts-for-aws** repository! This collection of shell scripts is designed to help you manage AWS resources efficiently and effectively.
 
-## 📚 Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Scripts](#scripts)
-- [Usage](#usage)
-- [License](#license)
-
-## ✅ Prerequisites
+## 📚 Prerequisites
 
 Before running the scripts, make sure you have the following:
 
@@ -54,6 +47,9 @@ To get started, follow these steps:
    ```bash
    ./your_script_name.sh
    ```
+   
+## Contributing
+💡 Feel free to fork the repository and submit pull requests for any improvements or features you'd like to add!   
 
 ## 📜 License
 
