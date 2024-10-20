@@ -22,6 +22,7 @@ This repository currently includes scripts that perform the following functions:
 - **Find Running EC2 Instances**: Retrieves a list of all running EC2 instances in a specified region.
 - **Find Stopped EC2 Instances**: Retrieves a list of all stopped EC2 instances in a specified region.
 - **Find Unattached EBS Volumes**: Retrieves a list of all unattached EBS volumes in a specified region.
+- **Find Unused Elastic IPs**: Retrieves a list of all unused Elastic IPs in a specified region.
 
 *More scripts and functionalities will be added in the future!*
 
