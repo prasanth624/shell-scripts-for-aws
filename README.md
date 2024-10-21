@@ -23,6 +23,7 @@ This repository currently includes scripts that perform the following functions:
 - **Find Stopped EC2 Instances**: Retrieves a list of all stopped EC2 instances in a specified region.
 - **Find Unattached EBS Volumes**: Retrieves a list of all unattached EBS volumes in a specified region.
 - **Find Unused Elastic IPs**: Retrieves a list of all unused Elastic IPs in a specified region.
+- **Check IAM User Status**: Evaluates a list of IAM users from a file to determine if they have multi-factor authentication (MFA) devices or access keys; disables users lacking both or inactive for over 180 days.
 
 *More scripts and functionalities will be added in the future!*
 
